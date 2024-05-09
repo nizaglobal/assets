@@ -1,0 +1,2 @@
+# assets
+Niza public assets
