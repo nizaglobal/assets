@@ -1,0 +1,23 @@
+{
+    "name": "Niza Chain Token Liss",
+    "timestamp": "2024-05-17T20:56:00.164591Z",
+    "keywords": [
+      "null"
+    ],
+    "logoURI": "ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
+    "version": {
+      "major": 5,
+      "minor": 0,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 20073,
+        "name": "Niza Global",
+        "address": "0xbE10F803C87d5dc8D41799d7cC7E3A496f766FDB",
+        "decimals": 18,
+        "symbol": "NIZA",
+        "logoURI": "https://raw.githubusercontent.com/nizaglobal/assets/main/niza-coin-logo.svg"
+      }
+    ]
+  }
