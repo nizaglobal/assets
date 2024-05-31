@@ -18,6 +18,14 @@
         "decimals": 18,
         "symbol": "NIZA",
         "logoURI": "https://raw.githubusercontent.com/nizaglobal/assets/main/niza-coin-logo.png"
+      },
+        {
+        "chainId": 20073,
+        "name": "GG Token",
+        "address": "0x4E02E680B7DD3057165cE4087BDd626Cab7f4c3E",
+        "decimals": 18,
+        "symbol": "GGT",
+        "logoURI": "https://raw.githubusercontent.com/nizaglobal/assets/main/niza-coin-logo.png"
       }
     ]
   }
