@@ -7,8 +7,8 @@
     "logoURI": "ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
     "version": {
       "major": 5,
-      "minor": 2,
-      "patch": 2
+      "minor": 3,
+      "patch": 3
     },
     "tokens": [
       {
@@ -29,19 +29,27 @@
       },
         {
         "chainId": 20041,
-        "name": "Niza Global",
-        "address": "0xCF5c11f4e1e0035fd163A9F2EE02c6D6C65D313D",
-        "decimals": 18,
-        "symbol": "NIZA",
-        "logoURI": "ipfs://QmeMVBwSs5kYgQNUuM2XZBUrgWJ5AkJQdWvSvep64upAEY"
+        "name": "USDC on Niza",
+        "address": "0x31A77dbC23DCDB601bAA50d1f108273C8E04841a",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
       },
         {
         "chainId": 20041,
-        "name": "GG Token",
-        "address": "0xe9ae6647E30a4C03bde5F682B017c78B947604B6",
+        "name": "USDT on Niza",
+        "address": "0x6A04ed570925e383a5D2274D45D2a9971893a14B",
+        "decimals": 6,
+        "symbol": "USDT",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },
+        {
+        "chainId": 20041,
+        "name": "DAI on Niza",
+        "address": "0xA5E7B19878EEe86CfcD401974d71E028ADAF5dA2",
         "decimals": 18,
-        "symbol": "GGT",
-        "logoURI": "ipfs://QmeMVBwSs5kYgQNUuM2XZBUrgWJ5AkJQdWvSvep64upAEY"
+        "symbol": "DAI",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       }
     ]
   }
